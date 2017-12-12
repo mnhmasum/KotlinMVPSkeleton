@@ -1,4 +1,4 @@
-package com.virgo.kotlin.features
+package com.virgo.kotlin.features.home
 
 /**
  * Created by nazmul on 11/17/17.

@@ -1,4 +1,4 @@
-package com.virgo.kotlin.features
+package com.virgo.kotlin.features.home
 
 import com.virgo.kotlin.common.BasePresenter
 
